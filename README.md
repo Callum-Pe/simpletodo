@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Walkthrough](vidoe.gif)
+![Walkthrough](video.gif)
 GIF created with [Recordit]
 
 ## Notes
